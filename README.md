@@ -1,7 +1,6 @@
 # Deceiver Ops
 
 Proyecto de investigación para evaluar capacidades de detección de EDR/SIEM frente a una cadena ofensiva multi-etapa.  
-Desarrollado como proyecto de título de Ingeniería en Ciberseguridad — AIEP.
 
 ---
 
